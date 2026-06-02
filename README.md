@@ -7,6 +7,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 </div>
+---
+
 ### Screenshot
 
 ![Blog Preview Card Solution](preview.jpg)
